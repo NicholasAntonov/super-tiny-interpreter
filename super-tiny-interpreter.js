@@ -45,11 +45,6 @@
 /**
  * FINALLY! We'll create our `interpreter` function. Here we will link together
  * every part of the pipeline.
- *
- *   1. input  => tokenizer   => tokens
- *   2. tokens => parser      => ast
- *   3. ast    => transformer => newAst
- *   4. newAst => generator   => output
  */
 
 function interpreter(input) {
