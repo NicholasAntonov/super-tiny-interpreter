@@ -24,7 +24,7 @@
 /**
  * Today we're going write a interpreter together. But not just any interpreter... A
  * super duper tiny teeny interpreter! A interpreter that is so small that if you
- * remove all the comments this file would only be ~200 lines of actual code.
+ * remove all the comments this file would only be ~10 lines of actual code.
  *
  * We're going to interpret some javascript-like function calls as real javascript.
  *
