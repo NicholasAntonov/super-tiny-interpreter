@@ -50,7 +50,7 @@
 function interpreter(input) {
   var tokens = (input => input)(input);
   var ast    = (tokens => tokens)(tokens);
-  var output = (ast => eval(ast))(ast); // Where the magic happens!
+  var output = eval(ast); // Where the magic happens!
 
   // and simply return the output!
   return output;
