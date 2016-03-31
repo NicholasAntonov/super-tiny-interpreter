@@ -2,7 +2,7 @@
 
 Welcome to The Super Tiny Interpreter. It's an ultra simplified example of all the
 major pieces of a modern interpreter written in easy to read JavaScript. Reading
-through it can help you learn about how most interpreter work end to end.
+through it can help you learn about how most interpreters work end to end.
 
 ### Why should I care?
 
